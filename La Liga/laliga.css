@@ -1,0 +1,205 @@
+@import url('https://fonts.googleapis.com/css2?family=Bitter:wght@700&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+    font-family: 'Bitter', serif;
+}
+
+body {
+    background-color: #292929;
+}
+
+.almeria {
+    display: flex;
+    width: 149px;
+    height: 200px;
+    justify-content: center;
+    padding: 35px;
+}
+
+.athletic-bilbao {
+    display: flex;
+    width: 175px;
+    height: 200px;
+    justify-content: center;
+    padding: 35px;
+}
+
+.atlético-madrid {
+    display: flex;
+    width: 150px;
+    height: 200px;
+    justify-content: center;
+    padding: 35px;
+}
+
+.barcelona{
+    display: flex;
+    width: 197px;
+    height: 200px;
+    justify-content: center;
+    padding: 35px;
+}
+
+.celta-vigo {
+    display: flex;
+    width: 112px;
+    height: 200px;
+    justify-content: center;
+    padding: 35px;
+}
+
+.cadiz {
+    display: flex;
+    width: 129px;
+    height: 200px;
+    justify-content: center;
+    padding: 35px;
+}
+
+.deportivo-alaves {
+    display: flex;
+    width: 200px;
+    height: 200px;
+    justify-content: center;
+    padding: 35px;
+}
+
+.getafe {
+    display: flex;
+    width: 191px;
+    height: 180px;
+    justify-content: center;
+    padding: 35px;
+}
+
+.girona {
+    display: flex;
+    width: 200px;
+    height: 200px;
+    justify-content: center;
+    padding: 35px;
+}
+
+.granada {
+    display: flex;
+    width: 89px;
+    height: 200px;
+    justify-content: center;
+    padding: 35px;
+}
+
+.las-palmas {
+    display: flex;
+    width: 227px;
+    height: 220px;
+    justify-content: center;
+    padding: 35px;
+}
+
+.mallorca {
+    display: flex;
+    width: 151px;
+    height: 200px;
+    justify-content: center;
+    padding: 35px;
+}
+
+.osasuna {
+    display: flex;
+    width: 149px;
+    height: 200px;
+    justify-content: center;
+    padding: 35px;
+}
+
+.rayo-vallecano {
+    display: flex;
+    width: 170px;
+    height: 180px;
+    justify-content: center;
+    padding: 35px;
+}
+
+.real-betis {
+    display: flex;
+    width: 180px;
+    height: 180px;
+    justify-content: center;
+    padding: 35px;
+}
+
+.real-madrid {
+    display: flex;
+    width: 148px;
+    height: 200px;
+    justify-content: center;
+    padding: 35px;
+} 
+
+.real-sociedad {
+    display: flex;
+    width: 154px;
+    height: 200px;
+    justify-content: center;
+    padding: 35px;
+}
+
+.Sevilla {
+    display: flex;
+    width: 164px;
+    height: 200px;
+    justify-content: center;
+    padding: 35px;
+}
+
+.valencia {
+    display: flex;
+    width: 158px;
+    height: 200px;
+    justify-content: center;
+    padding: 35px;
+}
+
+.villarreal {
+    display: flex;
+    width: 160px;
+    height: 200px;
+    justify-content: center;
+    padding: 35px;
+}
+
+
+.la-liga {
+    display: flex;
+    padding: 105px 64px 64px 64px;
+    align-items: flex-start;
+    align-content: flex-start;
+    gap: 32px 104.759px;
+    flex-wrap: wrap;
+
+}
+
+.img-2 {
+    width: 18px;   
+}
+
+a { 
+    color: currentColor;
+ } 
+
+a:hover {
+    color: rgb(248, 143, 143);
+    transition: 0.8s;
+
+}
+
+.voltar {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: aliceblue;
+}

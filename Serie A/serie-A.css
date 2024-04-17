@@ -1,0 +1,207 @@
+@import url('https://fonts.googleapis.com/css2?family=Bitter:wght@700&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+    font-family: 'Bitter', serif;
+}
+
+body {
+    background-color: #292929;
+}
+
+.atalanta {
+    display: flex;
+    width: 175px;
+    height: 200px;
+    justify-content: center;
+    padding: 35px;
+}
+
+.bologna {
+    display: flex;
+    width: 130px;
+    height: 200px;
+    justify-content: center;
+    padding: 35px;
+}
+
+.cagliari {
+    display: flex;
+    width: 165px;
+    height: 200px;
+    justify-content: center;
+    padding: 35px;
+}
+
+.empoli {
+    display: flex;
+    width: 144px;
+    height: 200px;
+    justify-content: center;
+    padding: 35px;
+}
+
+.fiorentina {
+    display: flex;
+    width: 200px;
+    height: 200px;
+    justify-content: center;
+    padding: 35px;
+}
+
+.frosinone {
+    display: flex;
+    width: 175px;
+    height: 200px;
+    justify-content: center;
+    padding: 35px;
+}
+
+.genoa {
+    display: flex;
+    width: 149px;
+    height: 200px;
+    justify-content: center;
+    padding: 35px;
+}
+
+.hellas-verona {
+    display: flex;
+    width: 176px;
+    height: 180px;
+    justify-content: center;
+    padding: 35px;
+}
+
+.internazionale-milano {
+    display: flex;
+    width: 200px;
+    height: 200px;
+    justify-content: center;
+    padding: 35px;
+}
+
+.juventus {
+    display: flex;
+    width: 101px;
+    height: 200px;
+    justify-content: center;
+    padding: 35px;
+}
+
+.lazio {
+    display: flex;
+    width: 267px;
+    height: 180px;
+    justify-content: center;
+    padding: 35px;
+}
+
+.lecce {
+    display: flex;
+    width: 166px;
+    height: 200px;
+    justify-content: center;
+    padding: 35px;
+}
+
+.milan {
+    display: flex;
+    width: 127px;
+    height: 200px;
+    justify-content: center;
+    padding: 35px;
+}
+
+.monza {
+    display: flex;
+    width: 142px;
+    height: 200px;
+    justify-content: center;
+    padding: 35px;
+}
+
+.napoli {
+    display: flex;
+    width: 200px;
+    height: 200px;
+    justify-content: center;
+    padding: 35px;
+}
+
+.roma {
+    display: flex;
+    width: 154px;
+    height: 200px;
+    justify-content: center;
+    padding: 35px;
+} 
+
+.salernitana {
+    display: flex;
+    width: 183px;
+    height: 180px;
+    justify-content: center;
+    padding: 35px;
+}
+
+.sassuolo {
+    display: flex;
+    width: 175px;
+    height: 200px;
+    justify-content: center;
+    padding: 35px;
+}
+
+.torino {
+    display: flex;
+    width: 180px;
+    height: 200px;
+    justify-content: center;
+    padding: 35px;
+}
+
+.udinese {
+    display: flex;
+    width: 101px;
+    height: 200px;
+    justify-content: center;
+    padding: 35px;
+}
+
+
+
+.serie-a {
+    display: flex;
+    padding: 105px 64px 64px 64px;
+    align-items: flex-start;
+    align-content: flex-start;
+    gap: 32px 104.759px;
+    flex-wrap: wrap;
+
+  
+}
+
+.img-2 {
+    width: 18px;   
+}
+
+a { 
+    color: currentColor;
+ } 
+
+a:hover {
+    color: rgb(248, 143, 143);
+    transition: 0.8s;
+
+}
+
+.voltar {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: aliceblue;
+}

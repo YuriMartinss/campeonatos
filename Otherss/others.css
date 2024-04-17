@@ -1,0 +1,398 @@
+@import url('https://fonts.googleapis.com/css2?family=Bitter:wght@700&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+    font-family: 'Bitter', serif;
+}
+
+body {
+    background-color: #292929;
+}
+
+.ajax {
+    display: flex;
+    width: 170px;
+    height: 200px;
+    justify-content: center;
+    padding: 35px;
+}
+
+.al-ahli {
+    display: flex;
+    width: 170px;
+    height: 200px;
+    justify-content: center;
+    padding: 35px;
+}
+
+.al-nassr {
+    display: flex;
+    width: 175px;
+    height: 200px;
+    justify-content: center;
+    padding: 35px;
+}
+
+.al-ittihad {
+    display: flex;
+    width: 170px;
+    height: 200px;
+    justify-content: center;
+    padding: 35px;
+}
+
+.alhilal {
+    display: flex;
+    width: 170px;
+    height: 200px;
+    justify-content: center;
+    padding: 35px;
+}
+
+.atlanta {
+    display: flex;
+    width: 171px;
+    height: 200px;
+    justify-content: center;
+    padding: 35px;
+}
+
+.benfica {
+    display: flex;
+    width: 170px;
+    height: 200px;
+    justify-content: center;
+    padding: 35px;
+}
+
+.besiktas {
+    display: flex;
+    width: 160px;
+    height: 180px;
+    justify-content: center;
+    padding: 35px;
+}
+
+.boca-juniors {
+    display: flex;
+    width: 170px;
+    height: 200px;
+    justify-content: center;
+    padding: 35px;
+}
+
+.celtic {
+    display: flex;
+    width: 150px;
+    height: 200px;
+    justify-content: center;
+    padding: 35px;
+}
+
+.cerro-porteño {
+    display: flex;
+    width: 146px;
+    height: 200px;
+    justify-content: center;
+    padding: 35px;
+}
+
+.chivas-guadalajara {
+    display: flex;
+    width: 170px;
+    height: 200px;
+    justify-content: center;
+    padding: 35px;
+}
+
+.club-américa {
+    display: flex;
+    width: 170px;
+    height: 200px;
+    justify-content: center;
+    padding: 35px;
+}
+
+.club-brugge {
+    display: flex;
+    width: 170px;
+    height: 200px;
+    justify-content: center;
+    padding: 35px;
+}
+
+.club-nacional {
+    display: flex;
+    width: 200px;
+    height: 200px;
+    justify-content: center;
+    padding: 35px;
+}
+
+.club-olimpia {
+    display: flex;
+    width: 150px;
+    height: 200px;
+    justify-content: center;
+    padding: 35px;
+} 
+
+.colo-colo {
+    display: flex;
+    width: 170px;
+    height: 200px;
+    justify-content: center;
+    padding: 35px;
+}
+
+.cska {
+    display: flex;
+    width: 160px;
+    height: 200px;
+    justify-content: center;
+    padding: 35px;
+}
+
+.d-c-1 {
+    display: flex;
+    width: 160px;
+    height: 200px;
+    justify-content: center;
+    padding: 35px;
+}
+
+.dinamo-zagreb {
+    display: flex;
+    width: 160px;
+    height: 200px;
+    justify-content: center;
+    padding: 35px;
+}
+
+.dynamo-kyiv {
+    display: flex;
+    width: 160px;
+    height: 200px;
+    justify-content: center;
+    padding: 35px;
+}
+
+.estudiantes-de-la-plata {
+    display: flex;
+    width: 160px;
+    height: 200px;
+    justify-content: center;
+    padding: 35px;
+}
+
+.fenerbahçe {
+    display: flex;
+    width: 160px;
+    height: 200px;
+    justify-content: center;
+    padding: 35px;
+}
+
+.feyenoord {
+    display: flex;
+    width: 160px;
+    height: 200px;
+    justify-content: center;
+    padding: 35px;
+}
+
+.galatasaray {
+    display: flex;
+    width: 160px;
+    height: 200px;
+    justify-content: center;
+    padding: 35px;
+}
+
+.guangzhou-evergrande {
+    display: flex;
+    width: 160px;
+    height: 200px;
+    justify-content: center;
+    padding: 35px;
+}
+
+.independiente {
+    display: flex;
+    width: 160px;
+    height: 200px;
+    justify-content: center;
+    padding: 35px;
+}
+
+.inter-miami {
+    display: flex;
+    width: 160px;
+    height: 200px;
+    justify-content: center;
+    padding: 35px;
+}
+
+.kashima-antlers {
+    display: flex;
+    width: 160px;
+    height: 200px;
+    justify-content: center;
+    padding: 35px;
+}
+
+.ldu {
+    display: flex;
+    width: 160px;
+    height: 200px;
+    justify-content: center;
+    padding: 35px;
+}
+
+.los-angeles-galaxy {
+    display: flex;
+    width: 160px;
+    height: 200px;
+    justify-content: center;
+    padding: 35px;
+}
+
+.olympiacos {
+    display: flex;
+    width: 160px;
+    height: 200px;
+    justify-content: center;
+    padding: 35px;
+}
+
+.once-caldas {
+    display: flex;
+    width: 160px;
+    height: 200px;
+    justify-content: center;
+    padding: 35px;
+}
+
+.peñarol {
+    display: flex;
+    width: 160px;
+    height: 200px;
+    justify-content: center;
+    padding: 35px;
+}
+
+.porto {
+    display: flex;
+    width: 160px;
+    height: 200px;
+    justify-content: center;
+    padding: 35px;
+}
+
+.psv {
+    display: flex;
+    width: 160px;
+    height: 200px;
+    justify-content: center;
+    padding: 35px;
+}
+
+.racing {
+    display: flex;
+    width: 160px;
+    height: 200px;
+    justify-content: center;
+    padding: 35px;
+}
+
+.rangers {
+    display: flex;
+    width: 160px;
+    height: 200px;
+    justify-content: center;
+    padding: 35px;
+}
+
+.river-plate {
+    display: flex;
+    width: 160px;
+    height: 200px;
+    justify-content: center;
+    padding: 35px;
+}
+
+.san-lorenzo {
+    display: flex;
+    width: 160px;
+    height: 200px;
+    justify-content: center;
+    padding: 35px;
+}
+
+.seattle-sounders {
+    display: flex;
+    width: 160px;
+    height: 200px;
+    justify-content: center;
+    padding: 35px;
+}
+
+.shakhtar-donetsk {
+    display: flex;
+    width: 160px;
+    height: 200px;
+    justify-content: center;
+    padding: 35px;
+}
+
+.sporting {
+    display: flex;
+    width: 160px;
+    height: 200px;
+    justify-content: center;
+    padding: 35px;
+}
+
+.zenit {
+    display: flex;
+    width: 160px;
+    height: 200px;
+    justify-content: center;
+    padding: 35px;
+}
+
+
+.Others {
+    display: flex;
+    padding: 105px 64px 64px 64px;
+    align-items: flex-start;
+    align-content: flex-start;
+    gap: 32px 104.759px;
+    flex-wrap: wrap;
+    
+
+}
+
+.img-2 {
+    width: 18px;   
+}
+
+a { 
+    color: currentColor;
+ } 
+
+a:hover {
+    color: rgb(248, 143, 143);
+    transition: 0.8s;
+
+}
+
+.voltar {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: aliceblue;
+}

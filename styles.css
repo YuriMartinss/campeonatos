@@ -1,0 +1,362 @@
+@import url('https://fonts.googleapis.com/css2?family=Bitter:wght@700&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+    font-family: 'Bitter', serif;
+}
+
+body {
+    background-color: black;
+    
+}
+
+
+.ellipse {
+    width: 480.632px;
+    height: 480.589px;
+    border-radius: 543.589px;
+    background: linear-gradient(270deg, #292929 0%, #1C1C1C 100%);
+    margin: 20px 430px;
+    position: absolute;
+    z-index: -1;
+}
+
+
+.textos {
+    color: #FFF;
+    text-align: center;
+    font-size: 70px;
+    line-height: normal;
+    margin-top: 100px;
+    margin-left: 250px;
+}
+
+.titulo-1 {
+    width: 595px;
+    height: 272px;
+    font-size: 65px;
+    line-height: 272px;
+    letter-spacing: 0em;
+    text-align: center;
+
+
+}
+
+.titulo-2 {
+    width: 556px;
+    height: 72px;
+    color: #FFF;
+    text-align: center;
+    font-size: 25px;
+    line-height: normal;
+}
+
+
+.buttons {
+    display: flex;
+    width: 600px;
+    align-items: flex-start;
+    align-content: flex-start;
+    gap: 29.548px;
+    flex-wrap: wrap;
+    margin-top: 100px;
+    margin-left: 350px;
+    cursor: pointer;
+   
+}
+
+a { 
+    color: currentColor;
+ } 
+
+a:hover {
+    color: rgb(248, 143, 143);
+    transition: 0.8s;
+
+}
+
+.national {
+    display: flex;
+    padding: 14.774px 29.548px;
+    gap: 14.774px; 
+    border-radius: 36.935px;
+    background: #0D1B2A; 
+    color: white;
+}
+
+.ligue1 {
+    display: flex;
+    padding: 14.774px 29.548px;
+    gap: 14.774px; 
+    border-radius: 36.935px;
+    background: #0D1B2A; 
+    color: white;
+}
+
+.serieA {
+    display: flex;
+    padding: 14.774px 29.548px;
+    gap: 14.774px; 
+    border-radius: 36.935px;
+    background: #0D1B2A; 
+    color: white;
+}
+
+.la-liga {
+    display: flex;
+    padding: 14.774px 29.548px;
+    gap: 14.774px; 
+    border-radius: 36.935px;
+    background: #0D1B2A; 
+    color: white;
+}
+
+.premier-league {
+    display: flex;
+    padding: 14.774px 29.548px;
+    gap: 14.774px; 
+    border-radius: 36.935px;
+    background: #0D1B2A; 
+    color: white;
+}
+
+.brasileirao-a {
+    display: flex;
+    padding: 14.774px 29.548px;
+    gap: 14.774px; 
+    border-radius: 36.935px;
+    background: #0D1B2A; 
+    color: white;
+}
+
+.brasileirao-b {
+    display: flex;
+    padding: 14.774px 29.548px;
+    gap: 14.774px; 
+    border-radius: 36.935px;
+    background: #0D1B2A; 
+    color: white;
+}
+
+.bundesliga {
+    display: flex;
+    padding: 14.774px 29.548px;
+    gap: 14.774px; 
+    border-radius: 36.935px;
+    background: #0D1B2A; 
+    color: white;
+}
+
+.others {
+    display: flex;
+    padding: 14.774px 29.548px;
+    gap: 14.774px; 
+    border-radius: 36.935px;
+    background: #0D1B2A; 
+    color: white;
+}
+
+
+.all-nassr {
+    display: flex;
+    width: 89px;
+    height: 120px;
+    justify-content: center;
+}
+
+.argentina {
+    display: flex;
+    width: 89px;
+    height: 120px;
+    justify-content: center;
+}
+
+.arsenal {
+    display: flex;
+    width: 89px;
+    height: 120px;
+    justify-content: center;
+}
+
+.atlanta {
+    display: flex;
+    width: 89px;
+    height: 120px;
+    justify-content: center;
+}
+
+.Atletico-Madrid {
+    display: flex;
+    width: 89px;
+    height: 120px;
+    justify-content: center;
+}
+
+.barcelona {
+    display: flex;
+    width: 89px;
+    height: 120px;
+    justify-content: center;
+}
+
+.bayern-munchen {
+    display: flex;
+    width: 89px;
+    height: 120px;
+    justify-content: center;
+}
+
+.benfica {
+    display: flex;
+    width: 89px;
+    height: 120px;
+    justify-content: center;
+}
+
+.boca-juniors {
+    display: flex;
+    width: 89px;
+    height: 120px;
+    justify-content: center;
+}
+
+.borussia-dortmund {
+    display: flex;
+    width: 89px;
+    height: 120px;
+    justify-content: center;
+}
+
+.brasil {
+    display: flex;
+    width: 89px;
+    height: 120px;
+    justify-content: center;
+}
+
+.chelsea {
+    display: flex;
+    width: 89px;
+    height: 120px;
+    justify-content: center;
+}
+
+.corinthians {
+    display: flex;
+    width: 89px;
+    height: 120px;
+    justify-content: center;
+}
+
+.england {
+    display: flex;
+    width: 89px;
+    height: 120px;
+    justify-content: center;
+}
+
+.flamengo {
+    display: flex;
+    width: 89px;
+    height: 120px;
+    justify-content: center;
+}
+
+.germany {
+    display: flex;
+    width: 89px;
+    height: 120px;
+    justify-content: center;
+}
+
+.inter-miami {
+    display: flex;
+    width: 89px;
+    height: 120px;
+    justify-content: center;
+}
+
+.internazionale {
+    display: flex;
+    width: 89px;
+    height: 120px;
+    justify-content: center;
+}
+
+.manchester-city {
+    display: flex;
+    width: 89px;
+    height: 120px;
+    justify-content: center;
+}
+
+.manchester-united {
+    display: flex;
+    width: 89px;
+    height: 120px;
+    justify-content: center;
+}
+
+.milan {
+    display: flex;
+    width: 89px;
+    height: 120px;
+    justify-content: center;
+}
+
+.olympique-marseille {
+    display: flex;
+    width: 89px;
+    height: 120px;
+    justify-content: center;
+}
+
+.psg {
+    display: flex;
+    width: 89px;
+    height: 120px;
+    justify-content: center;
+}
+
+.real-madrid {
+    display: flex;
+    width: 89px;
+    height: 120px;
+    justify-content: center;
+}
+
+.river-plate {
+    display: flex;
+    width: 89px;
+    height: 120px;
+    justify-content: center;
+}
+
+.spain {
+    display: flex;
+    width: 89px;
+    height: 120px;
+    justify-content: center;
+}
+
+.united-states {
+    display: flex;
+    width: 89px;
+    height: 120px;
+    justify-content: center;
+}
+
+.imgs {
+    display: flex;
+    width: 906px;
+    align-items: flex-start;
+    align-content: flex-start;
+    gap: 32px 104.759px;
+    flex-wrap: wrap;
+    float: right;
+    margin-top: -700px
+} 
+

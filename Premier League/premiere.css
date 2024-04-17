@@ -1,0 +1,206 @@
+@import url('https://fonts.googleapis.com/css2?family=Bitter:wght@700&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+    font-family: 'Bitter', serif;
+}
+
+body {
+    background-color: #292929;
+}
+
+.arsenal{
+    display: flex;
+    width: 170px;
+    height: 200px;
+    justify-content: center;
+    padding: 35px;
+}
+
+.aston-villa {
+    display: flex;
+    width: 170px;
+    height: 200px;
+    justify-content: center;
+    padding: 35px;
+}
+
+.bournemouth {
+    display: flex;
+    width: 150px;
+    height: 200px;
+    justify-content: center;
+    padding: 35px;
+}
+
+.brentford {
+    display: flex;
+    width: 170px;
+    height: 200px;
+    justify-content: center;
+    padding: 35px;
+}
+
+.brighton {
+    display: flex;
+    width: 170px;
+    height: 200px;
+    justify-content: center;
+    padding: 35px;
+}
+
+.burnley {
+    display: flex;
+    width: 171px;
+    height: 200px;
+    justify-content: center;
+    padding: 35px;
+}
+
+.chelsea {
+    display: flex;
+    width: 170px;
+    height: 200px;
+    justify-content: center;
+    padding: 35px;
+}
+
+.crystal-palace {
+    display: flex;
+    width: 160px;
+    height: 180px;
+    justify-content: center;
+    padding: 35px;
+}
+
+.everton {
+    display: flex;
+    width: 170px;
+    height: 200px;
+    justify-content: center;
+    padding: 35px;
+}
+
+.fulham {
+    display: flex;
+    width: 150px;
+    height: 200px;
+    justify-content: center;
+    padding: 35px;
+}
+
+.liverpool {
+    display: flex;
+    width: 146px;
+    height: 200px;
+    justify-content: center;
+    padding: 35px;
+}
+
+.luton-town {
+    display: flex;
+    width: 170px;
+    height: 200px;
+    justify-content: center;
+    padding: 35px;
+}
+
+.manchester-city {
+    display: flex;
+    width: 170px;
+    height: 200px;
+    justify-content: center;
+    padding: 35px;
+}
+
+.manchester-united {
+    display: flex;
+    width: 170px;
+    height: 200px;
+    justify-content: center;
+    padding: 35px;
+}
+
+.newcastle-united {
+    display: flex;
+    width: 170px;
+    height: 200px;
+    justify-content: center;
+    padding: 35px;
+}
+
+.nottingham-forest {
+    display: flex;
+    width: 95px;
+    height: 200px;
+    justify-content: center;
+    padding: 35px;
+} 
+
+.sheffield-united {
+    display: flex;
+    width: 170px;
+    height: 200px;
+    justify-content: center;
+    padding: 35px;
+}
+
+.tottenham-hotspur {
+    display: flex;
+    width: 85px;
+    height: 200px;
+    justify-content: center;
+    padding: 35px;
+}
+
+.west-ham-united {
+    display: flex;
+    width: 179px;
+    height: 200px;
+    justify-content: center;
+    padding: 35px;
+}
+
+.wolverhampton {
+    display: flex;
+    width: 170px;
+    height: 200px;
+    justify-content: center;
+    padding: 35px;
+}
+
+
+.premier-league {
+    display: flex;
+    padding: 105px 64px 64px 64px;
+    align-items: flex-start;
+    align-content: flex-start;
+    gap: 32px 104.759px;
+    flex-wrap: wrap;
+    
+
+}
+
+.img-2 {
+    width: 18px;   
+}
+
+a { 
+    color: currentColor;
+ } 
+
+a:hover {
+    color: rgb(248, 143, 143);
+    transition: 0.8s;
+
+}
+
+.voltar {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: aliceblue;
+}
